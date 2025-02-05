@@ -184,7 +184,7 @@ php artisan serve
 Special thanks to all contributors, mentors, and everyone who supported this project!
 
 ## 🔑 Default Super Admin Login Details
-Email: admin@admin.com
+Email: admin@admin.com <br/>
 Password: Admin@123#
 
 ---
