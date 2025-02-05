@@ -184,6 +184,6 @@ php artisan serve
 Special thanks to all contributors, mentors, and everyone who supported this project!
 
 ---
-
+<div align="center">
 <sub>Built with ♥️ by the Admission Management System Team | © 2025 All Rights Reserved</sub>
 
