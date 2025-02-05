@@ -183,6 +183,10 @@ php artisan serve
 
 Special thanks to all contributors, mentors, and everyone who supported this project!
 
+## 🔑 Default Super Admin Login Details
+Email: admin@admin.com
+Password: Admin@123#
+
 ---
 <div align="center">
 <sub>Built with ♥️ by the Admission Management System Team | © 2025 All Rights Reserved</sub>
