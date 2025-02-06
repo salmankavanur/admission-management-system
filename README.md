@@ -160,10 +160,11 @@ php artisan migrate:fresh --seed
 php artisan storage:link
 
 # Clear cache and compiled views
-php artisan cache:clear
 php artisan config:clear
-php artisan route:clear
+php artisan cache:clear
+php artisan config:cache
 php artisan view:clear
+php artisan route:clear
 
 # Serve the application
 php artisan serve
