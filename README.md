@@ -37,6 +37,8 @@ The **Admission Management System** is a modern web application designed to stre
 - **🎓 Paid/Free Admission**: Departments can be marked as paid or free when setting up.
 - **🧾 QR-Based Attendance**: Track interview attendance by scanning QR codes.
 - **🔔 Notification System**: Real-time notifications via SMS, email, and WhatsApp.
+- **💳 Payment Gatewat Integration**: Razorpay Payment Gateway Integration. 
+- **🏢 Separate Dashboard**: for Applicant, Staff Admin, Manager, Super Admin.
 - **📊 Reports**: Generate detailed reports on admissions, attendance, and more.
 - **📍 Admission Status**: Check the current status of admissions for students.
 
@@ -57,8 +59,8 @@ The **Admission Management System** is a modern web application designed to stre
 
 ### Notifications
 ![Twilio](https://img.shields.io/badge/Twilio-1D9BF0?style=for-the-badge&logo=twilio&logoColor=white)
-![Mailgun](https://img.shields.io/badge/Mailgun-00C6B3?style=for-the-badge&logo=mailgun&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) (Email Notification via SMTP Configuration) ✉
 
 ### Hosting
 <img src="https://img.shields.io/badge/Digibayt_Server-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Digibayt Cloud Server">
