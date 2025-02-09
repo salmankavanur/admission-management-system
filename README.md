@@ -68,6 +68,7 @@ The **Admission Management System** is a modern web application designed to stre
 ![Apache](https://img.shields.io/badge/Apache-FF5733?style=for-the-badge&logo=apache&logoColor=white)
 
 
+
 </div>
 
 ## 🚀 Getting Started
