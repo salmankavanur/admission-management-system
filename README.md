@@ -61,8 +61,10 @@ The **Admission Management System** is a modern web application designed to stre
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ### Hosting
+<img src="https://img.shields.io/badge/Digibayt_Server-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Digibayt Cloud Server">
+![LiteSpeed Server](https://img.shields.io/badge/LiteSpeed-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-FF5733?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 </div>
 
