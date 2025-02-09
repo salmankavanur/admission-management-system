@@ -60,11 +60,11 @@ The **Admission Management System** is a modern web application designed to stre
 ### Notifications
 ![Twilio](https://img.shields.io/badge/Twilio-1D9BF0?style=for-the-badge&logo=twilio&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) (Email Notification via SMTP Configuration) ✉
+![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 ### Hosting
 <img src="https://img.shields.io/badge/Digibayt_Server-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Digibayt Cloud Server">
-![LiteSpeed Server](https://img.shields.io/badge/LiteSpeed-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![LiteSpeed Server](https://img.shields.io/badge/LiteSpeed-009639?style=for-the-badge&logo=litespeed&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-FF5733?style=for-the-badge&logo=apache&logoColor=white)
 
 
