@@ -55,7 +55,6 @@ The **Admission Management System** is a modern web application designed to stre
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Notifications
 ![Twilio](https://img.shields.io/badge/Twilio-1D9BF0?style=for-the-badge&logo=twilio&logoColor=white)
@@ -64,6 +63,7 @@ The **Admission Management System** is a modern web application designed to stre
 
 ### Hosting
 <img src="https://img.shields.io/badge/Digibayt_Server-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Digibayt Cloud Server">
+
 ![LiteSpeed Server](https://img.shields.io/badge/LiteSpeed-009639?style=for-the-badge&logo=litespeed&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-FF5733?style=for-the-badge&logo=apache&logoColor=white)
 
